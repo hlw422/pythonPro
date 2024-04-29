@@ -35,7 +35,7 @@ EXPIRE_MINUTES, TRANS_MODE, TRANS_TXN_TYPE, BY1, BY2, BY3)\
                  %s,%s, %s, %s, %s, %s,\
                  %s, %s, %s, %s, %s, %s,\
                %s, %s, %s, %s, %s, %s,\
-                %s, %s, %s, %s, %s, %s\
+                %s, %s, %s, %s, %s, %s,\
                      %s, %s, %s, %s, %s, %s\
                    );"  # 创建一个sql语句
         # 循环生成数据
